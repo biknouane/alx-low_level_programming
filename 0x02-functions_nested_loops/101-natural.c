@@ -7,9 +7,11 @@
   */
 int main(void)
 {
+	int i;
 	int sum;
-	int i = 0;
-
+	
+	i = 0;
+	sum = 0;
 	while (i < 1024)
 	{
 		if ((i % 3 == 0) || (i % 5 == 0))
