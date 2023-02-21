@@ -2,8 +2,9 @@
 
 /**
   * _isalpha - checkes if the argument is character
+  * @c: the number to be checked
   *
-  * Retur: 1 if the argument is character 0 if not
+  * Return: 1 if the argument is character 0 if not
   */
 int _isalpha(int c)
 {
