@@ -17,6 +17,8 @@ void print_alphabet_x10(void)
 			putchar (first);
 			first++;
 		}
+		i++;
+		first = 'a';
 		putchar ('\n');
 	}
 }
