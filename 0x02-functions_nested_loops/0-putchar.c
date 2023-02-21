@@ -8,9 +8,9 @@
 int main(void)
 {
 	int i = 0;
-	char arr[9] = "_putchar";
+	char arr[8] = "_putchar";
 
-	while (i < 9)
+	while (i < 8)
 	{
 		putchar (arr[i]);
 		i++;
