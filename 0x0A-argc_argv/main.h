@@ -3,6 +3,7 @@
 
 int _putchar(char c);
 int atoi(char *s);
+int _isdigit(char *s);
 
 
 #endif
